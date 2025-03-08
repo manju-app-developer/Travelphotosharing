@@ -1,5 +1,5 @@
 {
-  "name": "travel-photo-sharing",
+  "name": "Travelphotosharing",
   "version": "1.0.0",
   "description": "MVP for travel photo sharing platform",
   "main": "server.js",
